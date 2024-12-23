@@ -3,10 +3,10 @@
 ![Profile views](https://gpvc.arturio.dev/Mrpierce87)
 
 ## 💼 About Me
-- 🌐 Full Stack Developer
-- 💡 Passionate about cloud computing and AI
-- 🎓 Lifelong learner with a love for new technologies
-- 💬 Ask me about JavaScript, Python, and DevOps
+- 🎮 Gamer
+- 🎵 Song Creation
+- 📖 Story Writing
+- 🏋️ Health and Fitness
 
 ## 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,8 +21,6 @@
 ![Mrpierce87's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrpierce87&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Mrpierce87](https://www.linkedin.com/in/Mrpierce87)
-- Twitter: [@Mrpierce87](https://twitter.com/Mrpierce87)
 - Email: pierce87inc@gmail.com
 
 ## 📝 Latest Blog Posts
