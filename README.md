@@ -23,7 +23,7 @@
 ## 📫 How to Reach Me
 - LinkedIn: [Mrpierce87](https://www.linkedin.com/in/Mrpierce87)
 - Twitter: [@Mrpierce87](https://twitter.com/Mrpierce87)
-- Email: mrpierce87@example.com
+- Email: pierce87inc@gmail.com
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
