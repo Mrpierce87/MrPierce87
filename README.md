@@ -17,13 +17,6 @@
 ## 📫 How to Reach Me
 - Email: pierce87inc@gmail.com
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes](https://blog.example.com/understanding-kubernetes)
-- [10 Tips for JavaScript Developers](https://blog.example.com/10-tips-for-javascript)
-- [Why Python is Great for AI](https://blog.example.com/why-python-for-ai)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌟 Projects
 - [Project 1](https://github.com/Mrpierce87/project1): Description of Project 1
 - [Project 2](https://github.com/Mrpierce87/project2): Description of Project 2
